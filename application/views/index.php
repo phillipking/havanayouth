@@ -389,7 +389,7 @@
                                 <i class="fa fa-map-marker pull-left"></i>        
                                 <span class="adr-group pull-left">       
                                     <span class="street-address">Havana</span><br>
-                                    <span class="region">56 Monte Christo Roads</span><br>
+                                    <span class="region">56 Monte Christo Road</span><br>
                                     <span class="postal-code">Windhoek</span><br>
                                     <span class="country-name">Namibia</span>
                                 </span>
